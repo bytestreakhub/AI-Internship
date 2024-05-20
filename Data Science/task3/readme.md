@@ -2,6 +2,9 @@ Here's a detailed README file for your GitHub repository:
 
 # Age and Gender Detection Using OpenCV in Python
 
+# Dataset link - 
+https://drive.google.com/drive/folders/1Lb0bRQj-Tdrn5LFy9UjNMfd8r4Tp6UIb?usp=drive_link
+
 ## Overview
 
 This project demonstrates how to build an Age and Gender Predictor using OpenCV in Python. The predictor categorizes age into predefined intervals and classifies gender as either Male or Female.
